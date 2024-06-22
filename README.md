@@ -331,9 +331,9 @@ Deliverables
 >> git checkout -b steptech_assignment
 >>  git push origin steptech_assignment
 
-2)
 
-1) Insert sample data into the "users" table.
+
+2) Insert sample data into the "users" table.
    -
 insert into myapp_user values(5,'Aniket','aniket@gmail.com','Data Engineer');
 
