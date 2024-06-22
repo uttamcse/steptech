@@ -44,7 +44,7 @@ Name	         Email	                 Age
 Uttam Yadav	 uttamcseau@gmail.com	   23
 Viraj Singh	 viraj@gmail.com	         22
 Radha	Yadav   radha@gmail.com	         23
--
+
 
 
 c. Implement a route /new_user to render an HTML page to accept input from the user and store the information in the database:
@@ -70,7 +70,7 @@ User Details
 Name: Uttam Yadav
 Email: uttamcseau@gmail.com
 Age: 23
--
+
 
 http://127.0.0.1:8000/user/<2>/
 output:
@@ -79,7 +79,7 @@ User Details
 Name: Viraj Singh
 Email: viraj@gmail.com
 Age: 22
--
+
 
 http://127.0.0.1:8000/user/<2>/
 output:
@@ -89,7 +89,7 @@ User Details
 Name: radha
 Email: radha@gmail.com
 Age: 23
--
+
 
 e. Add error handling:
 -
@@ -218,7 +218,7 @@ Name	         Email	                 Age
 Uttam Yadav	 uttamcseau@gmail.com	   23
 Viraj Singh	 viraj@gmail.com	         22
 Radha	Yadav   radha@gmail.com	         23
--
+
 
 
 c. Implement a route /new_user to render an HTML page to accept input from the user and store the information in the database:
@@ -244,7 +244,7 @@ User Details
 Name: Uttam Yadav
 Email: uttamcseau@gmail.com
 Age: 23
--
+
 
 http://127.0.0.1:8000/user/<2>/
 output:
@@ -253,7 +253,7 @@ User Details
 Name: Viraj Singh
 Email: viraj@gmail.com
 Age: 22
--
+
 
 http://127.0.0.1:8000/user/<2>/
 output:
@@ -263,7 +263,7 @@ User Details
 Name: radha
 Email: radha@gmail.com
 Age: 23
--
+
 
 e. Add error handling:
 -
